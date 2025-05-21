@@ -2,7 +2,7 @@
 
 this chatbot is used ot generate curious questions! the program was run on our PR2 robot, and it plays the part of a curious and helpful robot, in order to study the effects of curiosity in a collaborative task.
 
-this chatbot uses gpt for text generation, vosk for speech recogntion, and azure-cloudservices for speech. With all that, it asks the user a curious question about a given object.
+this chatbot uses gpt-4o-mini for text generation, vosk for speech-to-text, and azure-cloudservicess-speech for speech synthesis. with all that, it asks the user a curious question about a given object.
 
 ## ROS repo dependencies
 
